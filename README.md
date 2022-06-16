@@ -39,6 +39,9 @@
 | [Data Heist](https://dataheist.org/) | $$$ | - | - |
 | [Elevation of Privilege](https://agilestationery.com/collections/agile-management/products/elevation-of-privilege-game) | $$$ | - | Paid version |
 | [Elevation of Privilege](https://github.com/adamshostack/eop/) | FREE | - | Free Version |
+| [StixITS](https://mediatum.ub.tum.de/doc/1328974/1328974.pdf) | - | - | A Serious Game for Eliciting Social Engineering
+Security Requirements |
+| - | - | - | - |
 
 
 ## Role Playing Games
@@ -64,12 +67,12 @@
 
 
 ## White Papers on Security Gamification
-| NAME  |
-| [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) |
-| NAME  |
-| NAME  |
-| NAME  |
-| NAME  |
+| NAME  | Author  |
+| [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) | Author  |
+| NAME  | Author  |
+| NAME  | Author  |
+| NAME  | Author  |
+| NAME  | Author  |
 
 
 ## Books about Security Gamification
