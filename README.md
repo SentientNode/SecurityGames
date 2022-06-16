@@ -60,7 +60,7 @@ Security Requirements |
 
 
 ## Lists of Games
-| NAME  | Types of Games |
+| NAME  | Type of games  |
 | ------------- | ------------- |
 | [Shostack + Associates](https://shostack.org/games.html) | ------------- |
 | [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  | ------------- |
