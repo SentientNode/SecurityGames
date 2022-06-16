@@ -5,7 +5,7 @@
 | [TryHackMe](https://tryhackme.com/)  | -  | CTF | Has a free version and a paid version  |
 | [PWN Adventure 3](https://www.pwnadventure.com/)  | -  | - | -  |
 | [Security Blue Team](https://securityblue.team/)  | -  | - | Test practical defensive security skills across a wide range of blue-team discipline  |
-| Splunk Boss of the SOC   | Free  | - | -  |
+| [Splunk Boss of the SOC](https://bots.splunk.com/)   | Free  | - | For Splunk users  |
 | [Backdoors & Breaches](https://play.backdoorsandbreaches.com/)  | -  | - | -  |
 | [Hack Me](https://hack.me/)  | -  | - | -  |
 | [Protection Poker](https://opensource.com/article/19/3/protection-poker-agile-security-game)  | -  | - | -  |
