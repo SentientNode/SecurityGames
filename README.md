@@ -21,7 +21,9 @@
 | [[D0x3d!]](https://d0x3d.com/d0x3d/welcome.html) | FREE | - | - |
 | [Dungeons and Data](https://drive.google.com/open?id=1lUSi7HqDa-hKWicfDxpBMLG-qB1UrtsU) | - | - | - |
 | [Enter The Spudnet](https://potatopirates.game/) | $$$ | - | - |
-| - | - | - | - |
+| [Hacker](https://amzn.to/2LYZUX3) | $$$ | - | - |
+| [NeoSens](https://www.blackhat.com/docs/us-16/materials/us-16-Romand-Latapie-Dungeons-Dragons-And-Security-wp.pdf) | - | - | - |
+| [Riskio](https://www.riskio.co.uk/) | - | - | - |
 | - | - | - | - |
 
 
@@ -39,6 +41,15 @@
 | [Elevation of Privilege](https://github.com/adamshostack/eop/) | FREE | - | Free Version |
 
 
+## Role Playing Games
+| NAME  | Cost  | Type | Details  |
+| ------------- | ------------- | ------------- | ------------- |
+| [Oh Noes!](https://info.expel.io/oh-noes) | FREE | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+
+
 ## Other Types of Games
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
@@ -54,7 +65,12 @@
 
 ## White Papers on Security Gamification
 | NAME  |
-| ------------- |
+| [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) |
+| NAME  |
+| NAME  |
+| NAME  |
+| NAME  |
+
 
 ## Books about Security Gamification
 | NAME  | Author  |
