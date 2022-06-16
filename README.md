@@ -64,8 +64,8 @@ Security Requirements |
 | [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) | Type  |
 | [Shostack + Associates](https://shostack.org/games.html)  | Type  |
 | [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  | Type  |
-| NAME  | Type  |
-| NAME  | Type  |
+| -  | -  |
+| -  | -  |
 
 
 ## White Papers on Security Gamification
