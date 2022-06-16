@@ -12,7 +12,7 @@
 | [Back Door and Breaches Digital Online Free Website](https://play.backdoorsandbreaches.com/) | - | - | - |
 | [MS Azure Cloud Training](https://microsoft.thetrainingarcade.com/) | FREE | WEB | - |
 | [The Agile App Security Game](https://www.securedevelopment.org/2017/10/12/games-to-help-learn-about-secure-development/) | - | - | - |
-| - | - | - | - |
+<!--| - | - | - | - |-->
 
 ## Table Top && Board Games
 | NAME  | Cost  | Type | Details  |
@@ -24,7 +24,7 @@
 | [Hacker](https://amzn.to/2LYZUX3) | $$$ | - | - |
 | [NeoSens](https://www.blackhat.com/docs/us-16/materials/us-16-Romand-Latapie-Dungeons-Dragons-And-Security-wp.pdf) | - | - | - |
 | [Riskio](https://www.riskio.co.uk/) | - | - | - |
-| - | - | - | - |
+<!--| - | - | - | - |-->
 
 
 ## Card Games
@@ -41,22 +41,21 @@
 | [Elevation of Privilege](https://github.com/adamshostack/eop/) | FREE | - | Free Version |
 | [StixITS](https://mediatum.ub.tum.de/doc/1328974/1328974.pdf) | - | - | A Serious Game for Eliciting Social Engineering
 Security Requirements |
-| - | - | - | - |
+<!--| - | - | - | - |-->
 
 
 ## Role Playing Games
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
 | [Oh Noes!](https://info.expel.io/oh-noes) | FREE | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
+<!--| - | - | - | - |-->
 
 
 ## Other Types of Games
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
 | [Protection Poker](https://opensource.com/article/19/3/protection-poker-agile-security-game)  | -  | - | -  |
+<!--| - | - | - | - |-->
 
 
 ## Lists of Games
@@ -64,22 +63,19 @@ Security Requirements |
 | [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) | -  |
 | [Shostack + Associates](https://shostack.org/games.html)  | -  |
 | [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  | -  |
-| -  | -  |
-| -  | -  |
+<!--| -  | -  |-->
 
 
 ## White Papers on Security Gamification
 | NAME  | Author  |
 | [GAP, a game for Improving Awareness About Passwords](https://link.springer.com/chapter/10.1007/978-3-030-02762-9_8) | -  |
-| -  | -  |
-| -  | -  |
-| -  | -  |
-| -  | -  |
+<!--| -  | -  |-->
 
 
 ## Books about Security Gamification
 | NAME  | Author  |
 | ------------- | ------------- |
+<!--| -  | -  |-->
 
 <!--| - | - | - | - |
 | - | - | - | - |-->
