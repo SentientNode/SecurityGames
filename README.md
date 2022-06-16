@@ -14,9 +14,15 @@
 | [The Agile App Security Game](https://www.securedevelopment.org/2017/10/12/games-to-help-learn-about-secure-development/) | - | - | - |
 | - | - | - | - |
 
-## Table Top Games
+## Table Top && Board Games
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
+| [Decisions & Disruptions](https://sites.google.com/view/decisions-disruptions/) | - | - | - |
+| [[D0x3d!]](https://d0x3d.com/d0x3d/welcome.html) | FREE | - | - |
+| [Dungeons and Data](https://drive.google.com/open?id=1lUSi7HqDa-hKWicfDxpBMLG-qB1UrtsU) | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
 
 
 ## Card Games
@@ -28,7 +34,9 @@
 | [Control-Alt-Hack](https://boardgamegeek.com/boardgame/128408/control-alt-hack#buyacopy) | - | - | - |
 | [Crypto Go](https://www.cryptogogame.com/EN/the-game) | - | - | Game about symmetric cryptography |
 | [Cyber Threat Defender](https://cias.utsa.edu/ctd_cards.php) | - | - | - |
-| [Data Heist](https://dataheist.org/) | - | - | - |
+| [Data Heist](https://dataheist.org/) | $$$ | - | - |
+| [Elevation of Privilege](https://agilestationery.com/collections/agile-management/products/elevation-of-privilege-game) | $$$ | - | Paid version |
+| [Elevation of Privilege](https://github.com/adamshostack/eop/) | FREE | - | Free Version |
 
 
 ## Other Types of Games
