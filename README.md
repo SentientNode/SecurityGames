@@ -22,6 +22,7 @@
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
 | [Backdoors & Breaches](https://play.backdoorsandbreaches.com/)  | $$$  | TABLETOP CARD GAME | -  |
+| [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/) | - | - | - |
 
 
 ## Other Types of Games
