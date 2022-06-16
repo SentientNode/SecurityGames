@@ -10,8 +10,8 @@
 | [Hack Me](https://hack.me/)  | -  | - | -  |
 | [Protection Poker](https://opensource.com/article/19/3/protection-poker-agile-security-game)  | -  | - | -  |
 | Back Door and Breaches Physical Cards | $$$ | TABLETOP CARD GAME | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- | ------------- |
+| Back Door and Breaches Digital Table Top Steam | ------------- | $$$ | ------------- |
+| [Back Door and Breaches Digital Online Free Website](https://play.backdoorsandbreaches.com/) | ------------- | ------------- | ------------- |
+| [MS Azure Cloud Training](https://microsoft.thetrainingarcade.com/) | FREE | WEB | ------------- |
+<!--| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |-->
