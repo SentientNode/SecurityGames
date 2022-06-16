@@ -60,10 +60,10 @@ Security Requirements |
 
 
 ## Lists of Games
-| NAME  |
+| NAME  | ------------- |
 | ------------- |
-| [Shostack + Associates](https://shostack.org/games.html) |
-| [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  |
+| [Shostack + Associates](https://shostack.org/games.html) | ------------- |
+| [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  | ------------- |
 
 
 ## White Papers on Security Gamification
