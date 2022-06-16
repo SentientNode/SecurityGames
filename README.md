@@ -3,7 +3,6 @@
 ## Virtual Games
 | NAME  | Cost  | Type | Details  |
 | ------------- | ------------- | ------------- | ------------- |
-| [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  | -  | List of Games | This is a link to a list of games made to be hacked  |
 | [TryHackMe](https://tryhackme.com/)  | -  | CTF | Has a free version and a paid version  |
 | [PWN Adventure 3](https://www.pwnadventure.com/)  | -  | - | -  |
 | [Security Blue Team](https://securityblue.team/)  | -  | - | Test practical defensive security skills across a wide range of blue-team discipline  |
@@ -42,6 +41,7 @@
 | NAME  |
 | ------------- |
 | [Shostack + Associates](https://shostack.org/games.html) |
+| [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  |
 
 <!--| - | - | - | - |
 | - | - | - | - |-->
