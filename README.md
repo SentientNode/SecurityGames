@@ -20,7 +20,7 @@
 | [Decisions & Disruptions](https://sites.google.com/view/decisions-disruptions/) | - | - | - |
 | [[D0x3d!]](https://d0x3d.com/d0x3d/welcome.html) | FREE | - | - |
 | [Dungeons and Data](https://drive.google.com/open?id=1lUSi7HqDa-hKWicfDxpBMLG-qB1UrtsU) | - | - | - |
-| - | - | - | - |
+| [Enter The Spudnet](https://potatopirates.game/) | $$$ | - | - |
 | - | - | - | - |
 | - | - | - | - |
 
@@ -50,6 +50,15 @@
 | ------------- |
 | [Shostack + Associates](https://shostack.org/games.html) |
 | [Games Made To Be Hacked](https://www.reddit.com/r/hacking/comments/qjtvai/games_made_to_be_hacked)  |
+
+
+## White Papers on Security Gamification
+| NAME  |
+| ------------- |
+
+## Books about Security Gamification
+| NAME  | Author  |
+| ------------- | ------------- |
 
 <!--| - | - | - | - |
 | - | - | - | - |-->
