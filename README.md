@@ -28,8 +28,8 @@
 | [Collect It All](https://diegeticgames.com/cia-collect-it-all/) | $$$ | - | - |
 | [Control-Alt-Hack](https://boardgamegeek.com/boardgame/128408/control-alt-hack#buyacopy) | - | - | - |
 | [Crypto Go](https://www.cryptogogame.com/EN/the-game) | - | - | Game about symmetric cryptography |
-| - | - | - | - |
-| - | - | - | - |
+| [Cyber Threat Defender](https://cias.utsa.edu/ctd_cards.php) | - | - | - |
+| [Data Heist](https://dataheist.org/) | - | - | - |
 
 
 ## Other Types of Games
